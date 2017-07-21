@@ -1,10 +1,10 @@
-#devecho_odoo_theme_v10
+# devecho_odoo_theme_v10
 
 Odoo10 社区版高仿企业版主题 莆田版 兼容手机端自适应
  
-#技术支持
+# 技术支持
 
 如遇安装问题或有其他建议请加 QQ群 338127557
  
-#介绍截图 安装说明 更新 
+# 介绍截图 安装说明 更新 
 https://devecho.com/d/527/
